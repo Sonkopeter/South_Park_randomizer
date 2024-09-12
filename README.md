@@ -11,4 +11,4 @@ This script:
 - makes it full screen
 - turns episode on
 
-Basically this thing automates 7 mouse clicks and saves 30 seconds of my life.
+Basically, this thing automates 7 mouse clicks and saves 30 seconds of my life.
