@@ -12,3 +12,5 @@ This script:
 - turns episode on
 
 Basically, this thing automates 7 mouse clicks and saves 30 seconds of my life.
+
+Despite its simplicity, this small project helped me better understand how web pages are structured.
