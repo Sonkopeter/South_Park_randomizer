@@ -1,6 +1,6 @@
 # South_Park_randomizer
 
-I like to fell asleep watching South Park, so I harassed Selenium library and made myself random SP episode selector. 
+I like to fell asleep watching South Park, so I harassed selenium library and made myself random SP episode selector. 
 
 This script:
 - opens chrome
